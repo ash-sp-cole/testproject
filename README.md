@@ -1,6 +1,7 @@
 ---
-permalink: /making-readmes-readable/
-title: Making READMEs readable
+
+title: Liri Bot
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 ---
 
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
