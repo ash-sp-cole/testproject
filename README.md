@@ -1,9 +1,9 @@
 ---
 
 title: Liri Bot
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 ---
 
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
 
 READMEs are really important because they’re the first item a user will see when encountering your code. Creating a readable README ensures that your co-workers and the public will be able to understand the intention of your program, install the software, and fork and adapt your projects.
